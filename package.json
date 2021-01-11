@@ -1,0 +1,9 @@
+{
+  "name": "ndm-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vk-io": "^4.1.2"
+  }
+}

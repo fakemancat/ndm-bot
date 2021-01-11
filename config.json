@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "pathToChats": "./chats.json",
+    "editTrigger": true,
+    "deleteTrigger": true,
+    "maxSavedMessagesInChat": 10,
+    "admins": []
+}
